@@ -31,6 +31,7 @@ PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/lynx/aospa_lynx.mk \
     $(LOCAL_DIR)/mi439/aospa_mi439.mk \
     $(LOCAL_DIR)/miatoll/aospa_miatoll.mk \
+    $(LOCAL_DIR)/mojito/aospa_mojito.mk \
     $(LOCAL_DIR)/mini5g/aospa_mini5g.mk \
     $(LOCAL_DIR)/munch/aospa_munch.mk \
     $(LOCAL_DIR)/oneplus5/aospa_oneplus5.mk \
@@ -70,6 +71,7 @@ COMMON_LUNCH_CHOICES += \
     aospa_lynx-userdebug \
     aospa_mi439-userdebug \
     aospa_miatoll-userdebug \
+    aospa_mojito-userdebug \
     aospa_mini5g-userdebug \
     aospa_munch-userdebug \
     aospa_oneplus5-userdebug \
